@@ -1,5 +1,7 @@
 <p align="center">
   <img src="assets/logo/web3js.jpg" width="200" alt="web3.js" />
+  <img src="https://www.solarmond.com/sm/img/core-img/logo_solarmond.png" width="200" alt="web3.js" />
+    
 </p>
 
 # web3.js - Ethereum JavaScript API
